@@ -1,0 +1,16 @@
+#app/config/parameters.yml
+parameters:
+  database_driver: pdo_mysql
+  database_host: vl363850.mysql.tools
+  database_port: 3306
+  database_name: vl363850_entmediagroup
+  database_user: vl363850_entmediagr
+  database_password: AEU03e3uB1ab
+
+#  parameters:
+#    database_driver: pdo_mysql
+#    database_host: localhost
+#    database_port: 3306
+#    database_name: entmedical-db
+#    database_user: root
+#    database_password: u8EMzsIDYhNZT
